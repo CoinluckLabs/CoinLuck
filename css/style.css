@@ -2373,9 +2373,9 @@ header.absolute {
 .preload-logo {
   position: absolute;
   top: 50%;
-  left: 50%;
-  width: 200px;
-  height: 200px;
+  left: 45%;
+  width: 150px;
+  height: 150px;
   z-index: 100;
   margin: -50px 0 0 -50px;
   background: #e99500;
