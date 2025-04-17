@@ -553,7 +553,7 @@
   }
 
   h1 {
-    font-size: 42px;
+    font-size: 35px;
     line-height: 48px;
     margin-bottom: 10px !important;
   }
@@ -757,7 +757,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 650px;
+    height: 1025px;
   }
 }
 
@@ -825,7 +825,7 @@
 
 @media only screen and (max-width: 360px) {
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 950px;
+    height: 975px;
   }
 }
 

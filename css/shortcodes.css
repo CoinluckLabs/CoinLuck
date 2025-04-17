@@ -11,8 +11,8 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #141B22;
-  background-color: #e99500;
+  color: whitesmoke;
+  background-color: #c90133;
   padding: 11px 24px;
   border: 2px solid transparent;
   position: relative;
@@ -39,13 +39,13 @@
 
 .tf-button.active {
   background-color: #5865F2;
-  color: #fff;
+  color: gold;
 }
 
 .tf-button.style-2 {
   background: transparent;
   color: var(--primary-color3);
-  border: 2.75px solid #e99500;
+  border: 2.75px solid whitesmoke;
 }
 
 .tf-button::before {
@@ -57,7 +57,7 @@
   height: 110%;
   width: 0%;
   content: "";
-  background-color: #fdffba;
+  background-color: #fcfeff;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -69,7 +69,7 @@
   z-index: 2;
   color: #fff;
   background: transparent;
-  border: 2px solid #e99500;
+  border: 2px solid #c90133;
 }
 
 .tf-button:hover::before {
@@ -78,12 +78,13 @@
 }
 
 .tf-button:hover.style-2 {
-  background-color: #fdffba;
+  background-color: rgb(236, 224, 224);
   color: var(--primary-color3);
 }
 
 .tf-button:hover.style-2::before {
-  background-color: #e99500;
+  background-color: rgba(246, 110, 110, 0.985);
+  color: whitesmoke;
 }
 
 /* Heading
@@ -101,7 +102,7 @@
 }
 
 .tf-heading .heading span {
-  color: #e99500;
+  color: #c90133;
 }
 
 .tf-heading .sub-heading {
@@ -1753,7 +1754,7 @@
 }
 
 .tf-slider-item .content-inner .heading span {
-  color: #e99500;
+  color: #c90133;
 }
 
 .tf-slider-item .content-inner .heading.mb0 {
@@ -1769,7 +1770,7 @@
 
 .tf-slider-item .content-inner .tf-button.style-2 {
   padding: 11px 24px;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .tf-slider-item .image {
@@ -3022,7 +3023,7 @@
   align-items: center;
   padding: 48px 42px 48px 42px;
   background: var(--product-color20);
-  height: 400px;
+  height: 470px;
 }
 
 .content-rm-thumb h3 {
@@ -3186,7 +3187,7 @@
   transform: translate(-50%, 0);
   z-index: 99999;
   width: 100%;
-  background: #41464b;
+  background: #38000e;
 }
 
 .header-fix-space {
