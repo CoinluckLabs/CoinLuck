@@ -645,7 +645,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 590px;
+    height: 625px;
   }
 
   .tf-partner-sec {
@@ -757,7 +757,7 @@
   }
 
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 1325px;
+    height: 1200px;
   }
 }
 
@@ -825,7 +825,7 @@
 
 @media only screen and (max-width: 360px) {
   .tf-roadmap-style-thumb .content-rm-thumb {
-    height: 950px;
+    height: 1250px;
   }
 }
 
